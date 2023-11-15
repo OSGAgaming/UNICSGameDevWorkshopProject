@@ -15,3 +15,6 @@ https://learn.microsoft.com/en-us/dotnet/
 
 Mono Install:
 https://www.mono-project.com/
+
+Visual Studio Download: 
+https://visualstudio.microsoft.com/
